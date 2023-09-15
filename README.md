@@ -1,7 +1,7 @@
 
 ![Hoori Logo](https://www.hoori.com.mx/hoori_logo.png)
 
-Frontend Challenge
+# Frontend Challenge
 
 En este proyecto deberás construir una interfaz gráfica para mostrar los datos de una API de ánime. A su vez, deberás arreglar el _servicio_ que provee dichos datos.
 
